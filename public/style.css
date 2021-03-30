@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+.header {
+    background: #d4faf3;
+}
+.app{
+    background-color: #f7c3f7;
+}
+.footer{
+    background: #d4faf3;
+    text-align: center;
+    color: black;
+}
+ul.il{
+    text-decoration:none impo !important;
+}
+
+div {
+    text-align: center !important;
+
+}
